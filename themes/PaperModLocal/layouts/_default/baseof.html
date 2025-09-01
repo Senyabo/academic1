@@ -1,0 +1,25 @@
+{{- if lt hugo.Version "0.146.0" }}
+{{- errorf "=> hugo v0.146.0 or greater is required for hugo-PaperMod to build " }}
+{{- end -}}
+
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    {{- partial "head.html" . }}
+</head>
+
+<body id="top" style="background-color: #6b05ca09; color: #222;">
+    {{- partialCached "header.html" . .Page -}}
+    
+    <main class="main" style="background-color: #6b05ca09; color: #222;">
+    <!-- Wrap the block content in a container for posts -->
+    <div class="post-content-wrapper" style="background-color: #ffffff; color: #222; padding: 1rem;">
+        {{- block "main" . }}{{ end }}
+    </div>
+</main>
+
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>
