@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Services on Yavor A Kostadinov</title>
-    <link>//localhost:1313/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in Services on Yavor A Kostadinov</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Aug 2025 23:03:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reviewer</title>
-      <link>//localhost:1313/services/01-reviewer/</link>
+      <link>http://localhost:1313/services/01-reviewer/</link>
       <pubDate>Tue, 29 Jul 2025 05:25:40 +0800</pubDate>
-      <guid>//localhost:1313/services/01-reviewer/</guid>
+      <guid>http://localhost:1313/services/01-reviewer/</guid>
       <description>&lt;!-- Header image --&gt;
 &lt;p&gt;&lt;img src=&#34;../images/pics/reviewer.jpg&#34; 
 alt=&#34;Gallery Header&#34;
@@ -109,9 +109,9 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
     </item>
     <item>
       <title>Panel Chair</title>
-      <link>//localhost:1313/services/02-chair/</link>
+      <link>http://localhost:1313/services/02-chair/</link>
       <pubDate>Wed, 27 Aug 2025 23:02:41 +0800</pubDate>
-      <guid>//localhost:1313/services/02-chair/</guid>
+      <guid>http://localhost:1313/services/02-chair/</guid>
       <description>&lt;!-- Header image --&gt;
 &lt;p&gt;&lt;img src=&#34;../images/pics/chair.jpg&#34; 
 alt=&#34;Gallery Header&#34;
@@ -135,9 +135,9 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
     </item>
     <item>
       <title>Commentator</title>
-      <link>//localhost:1313/services/03-commentator/</link>
+      <link>http://localhost:1313/services/03-commentator/</link>
       <pubDate>Wed, 27 Aug 2025 23:02:22 +0800</pubDate>
-      <guid>//localhost:1313/services/03-commentator/</guid>
+      <guid>http://localhost:1313/services/03-commentator/</guid>
       <description>&lt;!-- Header image --&gt;
 &lt;p&gt;&lt;img src=&#34;../images/pics/commentator.jpg&#34; 
 alt=&#34;Gallery Header&#34;
@@ -181,9 +181,9 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
     </item>
     <item>
       <title>Faculty Community Roles</title>
-      <link>//localhost:1313/services/04-community/</link>
+      <link>http://localhost:1313/services/04-community/</link>
       <pubDate>Wed, 27 Aug 2025 23:03:00 +0800</pubDate>
-      <guid>//localhost:1313/services/04-community/</guid>
+      <guid>http://localhost:1313/services/04-community/</guid>
       <description>&lt;!-- Header image --&gt;
 &lt;p&gt;&lt;img src=&#34;../images/pics/community.jpg&#34; 
 alt=&#34;Gallery Header&#34;
@@ -207,9 +207,9 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
     </item>
     <item>
       <title>Organizer</title>
-      <link>//localhost:1313/services/05-organizer/</link>
+      <link>http://localhost:1313/services/05-organizer/</link>
       <pubDate>Wed, 27 Aug 2025 23:02:02 +0800</pubDate>
-      <guid>//localhost:1313/services/05-organizer/</guid>
+      <guid>http://localhost:1313/services/05-organizer/</guid>
       <description>&lt;!-- Header image --&gt;
 &lt;p&gt;&lt;img src=&#34;../images/pics/organizer.jpg&#34; 
 alt=&#34;Gallery Header&#34;

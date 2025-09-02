@@ -1,4 +1,4 @@
-baseURL: "//localhost:1313/"
+baseURL: "https://68b65e1d9b84c882f67bcc28--yavorkostadinov.netlify.app"
 languageCode: en-us
 title: 'Yavor A Kostadinov'
 theme: 'PaperModLocal'
@@ -76,8 +76,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome!"
-    Content: "Yavor A Kostadinov is an Assistant Professor with six years of teaching experience. He specializes in international organizations, security, diplomacy, and public policy. He has authored a monograph, numerous articles, and supervised graduate and undergraduate research. Currently focused on public diplomacy, he also reviews for two international journals and is recipient of multiple grants and awards."
+    Title: ""
+    Content: ""
   
   socialIcons:
     - name: ORCID

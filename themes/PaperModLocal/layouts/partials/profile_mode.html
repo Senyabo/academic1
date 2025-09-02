@@ -1,0 +1,31 @@
+<div style="text-align:center; margin-top:2rem;">
+
+  <!-- Profile Image -->
+  {{ with .Site.Params.profileMode.imageUrl }}
+    <img 
+      src="{{ . }}" 
+      alt="{{ $.Site.Params.profileMode.imageTitle }}" 
+      width="{{ $.Site.Params.profileMode.imageWidth }}" 
+      height="{{ $.Site.Params.profileMode.imageHeight }}" 
+      style="border-radius:50%; display:block; margin:0 auto 1rem auto;"
+    />
+  {{ end }}
+
+  <!-- Title -->
+  <h1>{{ .Site.Params.profileMode.title | safeHTML }}</h1>
+
+  <!-- Subtitle -->
+  <p style="max-width:700px; margin:0 auto;">{{ .Site.Params.profileMode.subtitle | safeHTML }}</p>
+
+  <!-- Social icons -->
+  <div style="margin-top:1rem;">
+    {{ partial "social_icons.html" . }}
+  </div>
+
+  <!-- Buttons -->
+  <div style="margin-top:1.5rem;">
+    {{ range .Site.Params.profileMode.buttons }}
+      <a class="button" href="{{ .url }}">{{ .name }}</a>
+    {{ end }}
+  </div>
+</div>

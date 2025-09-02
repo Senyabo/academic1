@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Yavor A Kostadinov</title>
-    <link>//localhost:1313/research/</link>
+    <link>http://localhost:1313/research/</link>
     <description>Recent content in Publications on Yavor A Kostadinov</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2025 15:00:00 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monographs</title>
-      <link>//localhost:1313/research/01-monographs/</link>
+      <link>http://localhost:1313/research/01-monographs/</link>
       <pubDate>Mon, 01 Sep 2025 10:00:00 +0800</pubDate>
-      <guid>//localhost:1313/research/01-monographs/</guid>
+      <guid>http://localhost:1313/research/01-monographs/</guid>
       <description>&lt;!-- Page description --&gt;
 &lt;!-- Abstract (collapsible) --&gt;
 &lt;details style=&#34;margin-top:1rem;&#34;&gt;
@@ -41,9 +41,9 @@
     </item>
     <item>
       <title>Peer-Reviewed Articles</title>
-      <link>//localhost:1313/research/02-peer-reviewed/</link>
+      <link>http://localhost:1313/research/02-peer-reviewed/</link>
       <pubDate>Mon, 01 Sep 2025 12:00:00 +0800</pubDate>
-      <guid>//localhost:1313/research/02-peer-reviewed/</guid>
+      <guid>http://localhost:1313/research/02-peer-reviewed/</guid>
       <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
@@ -167,9 +167,9 @@
     </item>
     <item>
       <title>Specialized Articles</title>
-      <link>//localhost:1313/research/03-specialized/</link>
+      <link>http://localhost:1313/research/03-specialized/</link>
       <pubDate>Mon, 01 Sep 2025 13:00:00 +0800</pubDate>
-      <guid>//localhost:1313/research/03-specialized/</guid>
+      <guid>http://localhost:1313/research/03-specialized/</guid>
       <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
@@ -222,9 +222,9 @@
     </item>
     <item>
       <title>Book Chapters and Reviews</title>
-      <link>//localhost:1313/research/04-chapters/</link>
+      <link>http://localhost:1313/research/04-chapters/</link>
       <pubDate>Mon, 01 Sep 2025 14:00:00 +0800</pubDate>
-      <guid>//localhost:1313/research/04-chapters/</guid>
+      <guid>http://localhost:1313/research/04-chapters/</guid>
       <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
@@ -328,9 +328,9 @@
     </item>
     <item>
       <title>Conference Papers, Invited Lectures and Talks</title>
-      <link>//localhost:1313/research/05-conferences/</link>
+      <link>http://localhost:1313/research/05-conferences/</link>
       <pubDate>Mon, 01 Sep 2025 15:00:00 +0800</pubDate>
-      <guid>//localhost:1313/research/05-conferences/</guid>
+      <guid>http://localhost:1313/research/05-conferences/</guid>
       <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
