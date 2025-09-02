@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Services on Yavor A Kostadinov</title>
+    <link>//localhost:1313/services/</link>
+    <description>Recent content in Services on Yavor A Kostadinov</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Aug 2025 23:03:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reviewer</title>
+      <link>//localhost:1313/services/01-reviewer/</link>
+      <pubDate>Tue, 29 Jul 2025 05:25:40 +0800</pubDate>
+      <guid>//localhost:1313/services/01-reviewer/</guid>
+      <description>&lt;!-- Header image --&gt;
+&lt;p&gt;&lt;img src=&#34;../images/pics/reviewer.jpg&#34; 
+alt=&#34;Gallery Header&#34;
+style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
+&lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;&lt;/figcaption&gt;&lt;/p&gt;
+&lt;!-- Page description --&gt;
+&lt;h3 style=&#34;font-size:1rem;font-family: &#39;Dax Regular&#39;, monospace&#34;&gt;&lt;/h3&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Service&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;08/2025&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Peer-review for Taylor &amp; Francis Books&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2025&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Sam Weng Kei P. Celajes, MA – &#34;Navigating Contested Statehood and Transnational Crime Prevention: Taiwan’s Solutions and Challenges as a Non-Member of INTERPOL&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2025&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Alexandre Bourg, MA – &#34;The Normative Influence of the European Union in Shaping the Sustainable Development Preferences of its New Member States&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2025&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Melissa Kelly-Ann Donya Frederick, MA – &#34;The UN’s Role in Addressing Criminal Responsibility of Child Soldiers in Sierra Leone&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Letsiwe Zothile Simelane, MA – &#34;Factors Contributing to Success in the HIV/AIDS Epidemic Control in the Case of Eswatini&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Javier Enrique Sanchez Navas, MA – &#34;Approaches to Peaceful Resolution of Protracted Civil Wars: A Comparison of Communist Guerrillas in Guatemala and the Philippines&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Julien Claude Pierre Voignier, MA – &#34;Great Power Interplay in International Security Organizations: in the Case of U.S. and China’s Strategic Moves toward Membership in the Nuclear Suppliers Group&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Corey Novoa, MA – &#34;Conditions for Instability in Sudan, Syria, and Ukraine Amid Great Power Competition&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-review: Dana Duda, MA – &#34;Comparative Analysis of the Russian World and the Chinese Dream Political Discourse&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Nathan Keruul Salvador, MA – &#34;Media Content Analysis: Research into United States’ House Speakers Newt Gingrich and Nancy Pelosi visit to Taiwan&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Judel Victor Arugay, MA – &#34;Conditions for Peace: a Study of the Communist Insurgency in the Philippines and the Lessons Learned in the Colombian Peace Process&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-review: Elisa Lenker Andrade, MA – &#34;How State Nationalism Evolves: a Comparative Study of Contemporary China and USA (2012-2022)&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2022&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Tarif W. Brown, MA – &#34;Examining the Role of International Institutions on Influencing Identity in the Western Sahara Conflict&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2022&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Jonathan M. Parker, MA – &#34;China’s Actions in the South China Sea: Why Does the US Care?&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2022&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-review: Tyler Freese, MA – &#34;Measuring the Effectiveness of the Treaty Era&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;01/2022&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Harrison A. Cooke, MA – &#34;Policy Response Models to Securitized Health Threats: a Case Study of India and Taiwan during COVID-19&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2021&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Khemanit Supakdee, MA – &#34;Factors Affecting Migrant Workers Choice of a Host Country: A Case Study of Thai Workers in Taiwan&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2021&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Thesis-supervision: Maria Valderrama, MA – &#34;An Inquiry into the Influencing Factors of Poverty in the Philippines&#34;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;03/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Peer-review for Geopolitics&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Peer-review for Athens Journal of Social Sciences&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Panel Chair</title>
+      <link>//localhost:1313/services/02-chair/</link>
+      <pubDate>Wed, 27 Aug 2025 23:02:41 +0800</pubDate>
+      <guid>//localhost:1313/services/02-chair/</guid>
+      <description>&lt;!-- Header image --&gt;
+&lt;p&gt;&lt;img src=&#34;../images/pics/chair.jpg&#34; 
+alt=&#34;Gallery Header&#34;
+style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
+&lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;ISA&amp;ndash;CEEISA 2024&lt;/figcaption&gt;&lt;/p&gt;
+&lt;!-- Page description --&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Occasion&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Panel &#34;Theories of alliance formation&#34;, 17-21 June, Joint International Studies Association ISA-CEEISA conference, Rijeka, Croatia&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;03/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Panel &#34;Taiwan and the Changing World: Before and After the Pandemic&#34;. Mar 10, workshop in a joint initiative by IMAS, National Cheng-Chi and GSIA/IAD, Ming Chuan universities&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Commentator</title>
+      <link>//localhost:1313/services/03-commentator/</link>
+      <pubDate>Wed, 27 Aug 2025 23:02:22 +0800</pubDate>
+      <guid>//localhost:1313/services/03-commentator/</guid>
+      <description>&lt;!-- Header image --&gt;
+&lt;p&gt;&lt;img src=&#34;../images/pics/commentator.jpg&#34; 
+alt=&#34;Gallery Header&#34;
+style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
+&lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;&lt;/figcaption&gt;&lt;/p&gt;
+&lt;!-- Page description --&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Occasion&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;04/2025&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. April 12, Ming Chuan University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;11/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The Taiwan Political Science Association Annual Meeting and International Academic Symposium, Nov 24, host Tamkang University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;04/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. April 27, Ming Chuan University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;10/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;AI Impact in International Law, the 8th International Conference on Ocean Law &amp; Policy, October 13, National Taiwan Ocean University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;04/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. April 22, Ming Chuan University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;04/2022&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. April 09, Ming Chuan University&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;03/2021&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. March 27, Ming Chuan University&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Faculty Community Roles</title>
+      <link>//localhost:1313/services/04-community/</link>
+      <pubDate>Wed, 27 Aug 2025 23:03:00 +0800</pubDate>
+      <guid>//localhost:1313/services/04-community/</guid>
+      <description>&lt;!-- Header image --&gt;
+&lt;p&gt;&lt;img src=&#34;../images/pics/community.jpg&#34; 
+alt=&#34;Gallery Header&#34;
+style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
+&lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;Teacher at EMI Faculty Workshops&lt;/figcaption&gt;&lt;/p&gt;
+&lt;!-- Page description --&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Occasion&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;03/2024 - present&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;EMI Teacher Community Mentor, EMI Centre, MCU&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;09/2023 - 02/2024&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Faculty Professional Development Committee Member, EMI Centre, MCU&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Organizer</title>
+      <link>//localhost:1313/services/05-organizer/</link>
+      <pubDate>Wed, 27 Aug 2025 23:02:02 +0800</pubDate>
+      <guid>//localhost:1313/services/05-organizer/</guid>
+      <description>&lt;!-- Header image --&gt;
+&lt;p&gt;&lt;img src=&#34;../images/pics/organizer.jpg&#34; 
+alt=&#34;Gallery Header&#34;
+style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
+&lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;Roundtable&lt;/figcaption&gt;&lt;/p&gt;
+&lt;!-- Page description --&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+  &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Service/Project&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06 - 10/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Lead Organizer for the EMI Instructor Community of Practice focus groups, invited talks and roundtable, funded by NTNU&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;07/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Co-organizer for EVIP 2023, International Elite Leadership Program of the Ministry of Foreign Affairs, (Taiwan)&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;06/2023&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Co-organizer for MOSAIC 2023, International Elite Leadership Program of the Ministry of Foreign Affairs, (Taiwan)&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
