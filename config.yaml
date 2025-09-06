@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hello! &#128075; Welcome!" 
-    subtitle: "<div style='text-align:left'>Thank you for visiting! Yavor A Kostadinov (森亞博) is an Assistant Professor whose teaching and supervision extend across undergraduate and graduate study. His research, focused on international organizations, security, diplomacy, and public policy, has produced a monograph and numerous articles. He has presented his work widely, received several grants and awards, and contributed to governmental projects. In service to the discipline, he reviews for international journals and continues to guide the next generation of scholars.</div>"
+    subtitle: "Thank you for visiting! Yavor A Kostadinov (森亞博) is an Assistant Professor whose teaching and supervision extend across undergraduate and graduate study. His research, focused on international organizations, security, diplomacy, and public policy, has produced a monograph and numerous articles. He has presented his work widely, received several grants and awards, and contributed to governmental projects. In service to the discipline, he reviews for international journals and continues to guide the next generation of scholars."
     imageUrl: "/images/Yavor.jpg"
     imageWidth: 200
     imageHeight: 200
