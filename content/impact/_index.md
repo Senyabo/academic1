@@ -3,7 +3,7 @@ date = '2025-08-27T23:02:22+08:00'
 draft = false
 +++
 
-<h3 style="font-size:1.5rem; font-family: 'Dax Regular'; margin-bottom: 1rem;">Media Appearances</h3>
+<h3 style="font-size:1.5rem; font-family: 'Inter'; margin-bottom: 1rem;">Media Appearances</h3>
 
 <!-- Header image -->
 <img src="/images/pics/MA.jpg" 
@@ -15,7 +15,7 @@ draft = false
   
 </div>
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.9rem; font-family: 'Inter'; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Media outlet</th>

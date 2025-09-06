@@ -1,0 +1,15 @@
+/* Left-align main page profile text */
+.profile-mode,
+.profile-mode h1,
+.profile-mode h2,
+.profile-mode h3,
+.profile-mode p {
+    text-align: left !important;
+}
+
+/* Buttons under profile text */
+.profile-mode .profile-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: flex-start;
+}}

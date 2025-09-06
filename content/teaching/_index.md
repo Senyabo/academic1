@@ -5,13 +5,13 @@ title = 'Teaching'
 +++
 <!-- Header image -->
 <img src="/images/pics/teaching3.jpg" 
-     alt="Gallery Header"
+     alt="Teachingr"
      style="width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:0.5rem;">
-    <figcaption style="text-align:center; margin-top:0rem;font-family: 'Dax Regular', monospace">MCU 2020</figcaption>
+    <figcaption style="text-align:center; margin-top:0rem;font-family: 'Inter'">MCU 2020</figcaption>
 <!-- Page description -->
-<h3 style="font-size:1.2rem; font-family: 'Dax Regular', monospace; margin-bottom: 0.5rem;">Seminars and Courses Taught</h3>
+<h3 style="font-size:1.2rem; font-family: 'Inter'; margin-bottom: 0.5rem;">Seminars and Courses Taught</h3>
 
-<div style="font-size:0.9rem; font-family: 'Dax Regular'; line-height:1;">
+<div style="font-size:0.9rem; font-family: 'Inter', line-height:1;">
 
 <table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
   <tr>
