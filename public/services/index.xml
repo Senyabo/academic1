@@ -14,7 +14,7 @@
       <pubDate>Tue, 29 Jul 2025 05:25:40 +0800</pubDate>
       <guid>http://localhost:1313/services/01-reviewer/</guid>
       <description>&lt;!-- Header image --&gt;
-&lt;p&gt;&lt;img src=&#34;../images/pics/reviewer.jpg&#34; 
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pics/reviewer.jpg&#34; 
 alt=&#34;Gallery Header&#34;
 style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
 &lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;&lt;/figcaption&gt;&lt;/p&gt;
@@ -113,7 +113,7 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
       <pubDate>Wed, 27 Aug 2025 23:02:41 +0800</pubDate>
       <guid>http://localhost:1313/services/02-chair/</guid>
       <description>&lt;!-- Header image --&gt;
-&lt;p&gt;&lt;img src=&#34;../images/pics/chair.jpg&#34; 
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pics/chair.jpg&#34; 
 alt=&#34;Gallery Header&#34;
 style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
 &lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;ISA&amp;ndash;CEEISA 2024&lt;/figcaption&gt;&lt;/p&gt;
@@ -139,7 +139,7 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
       <pubDate>Wed, 27 Aug 2025 23:02:22 +0800</pubDate>
       <guid>http://localhost:1313/services/03-commentator/</guid>
       <description>&lt;!-- Header image --&gt;
-&lt;p&gt;&lt;img src=&#34;../images/pics/commentator.jpg&#34; 
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pics/commentator.jpg&#34; 
 alt=&#34;Gallery Header&#34;
 style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
 &lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;&lt;/figcaption&gt;&lt;/p&gt;
@@ -185,7 +185,7 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
       <pubDate>Wed, 27 Aug 2025 23:03:00 +0800</pubDate>
       <guid>http://localhost:1313/services/04-community/</guid>
       <description>&lt;!-- Header image --&gt;
-&lt;p&gt;&lt;img src=&#34;../images/pics/community.jpg&#34; 
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pics/community.jpg&#34; 
 alt=&#34;Gallery Header&#34;
 style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
 &lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;Teacher at EMI Faculty Workshops&lt;/figcaption&gt;&lt;/p&gt;
@@ -211,7 +211,7 @@ style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; m
       <pubDate>Wed, 27 Aug 2025 23:02:02 +0800</pubDate>
       <guid>http://localhost:1313/services/05-organizer/</guid>
       <description>&lt;!-- Header image --&gt;
-&lt;p&gt;&lt;img src=&#34;../images/pics/organizer.jpg&#34; 
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pics/organizer.jpg&#34; 
 alt=&#34;Gallery Header&#34;
 style=&#34;width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;&#34;&gt;
 &lt;figcaption style=&#34;text-align:center; margin-top:0.2rem; font-size:1rem; font-family: &#39;Dax Regular&#39;; line-height:1.5;&#34;&gt;Roundtable&lt;/figcaption&gt;&lt;/p&gt;

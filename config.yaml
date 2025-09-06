@@ -1,9 +1,9 @@
-baseURL: "https://68b65e1d9b84c882f67bcc28--yavorkostadinov.netlify.app"
+baseURL: "https://yavorkostadinov.netlify.app/"
 languageCode: en-us
 title: 'Yavor A Kostadinov'
 theme: 'PaperModLocal'
 
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: true
 
 enableRobotsTXT: true
@@ -73,11 +73,6 @@ params:
         url: research
       - name: Services
         url: services
-
-  # home-info mode
-  homeInfoParams:
-    Title: ""
-    Content: ""
   
   socialIcons:
     - name: ORCID
