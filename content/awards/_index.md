@@ -4,9 +4,9 @@ draft = false
 layout = "page"
 +++
 
-<h3 style="font-size:1.5rem;font-family: 'Dax Regular'">Grants and Recognitions</h3>
+
 <!-- Header image -->
-<img src="/images/pics/recognition.jpg" 
+<img src="/images/pics/recognition1.jpg" 
      alt="Gallery Header"
      style="width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;">
     
@@ -14,10 +14,22 @@ layout = "page"
 <div style="text-align:center; margin-bottom:2rem;">
   
 </div>
-<table style="width:100%; font-size:0.9rem; font-family='Roboto', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Occasion</th>
+  </tr>
+  <tr>
+    <td style="padding: 6px;">2026/27</td>
+    <td style="padding: 6px;">International Research Collaboration Grant(MCU)</td>
+  </tr>
+  <tr>
+    <td style="padding: 6px;">2025/26</td>
+    <td style="padding: 6px;">Model Teacher Award, Association of Private Teachers, (ROC)</td>
+  </tr>
+  <tr>
+    <td style="padding: 6px;">2025/26</td>
+    <td style="padding: 6px;">Academic Research Award (MCU)</td>
   </tr>
   <tr>
     <td style="padding: 6px;">2024/25</td>

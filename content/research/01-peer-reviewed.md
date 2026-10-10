@@ -2,10 +2,10 @@
 date = '2025-09-01T12:00:00+08:00'
 draft = false
 title = "Peer-Reviewed Articles"
-weight = 2
+weight = 1
 +++
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Author(s)</th>
     <th style="padding: 6px; text-align: left;">Date</th>
@@ -17,10 +17,10 @@ weight = 2
   <!-- Article 1 -->
   <tr>
     <td style="padding: 6px;">Kostadinov, Yavor A.; Kavalski, Emilian</td>
-    <td style="padding: 6px;">2025 (under review)</td>
+    <td style="padding: 6px;">2025</td>
     <td style="padding: 6px;">Between Formality and Informality: Socialization and Cohesion in the South Korea–US and Taiwan–US Asymmetric Alliances</td>
     <td style="padding: 6px;">World Affairs (Q2, IF 2.8)</td>
-    <td style="padding: 6px;">—</td>
+    <td style="padding: 6px;"><a href=" https://doi.org/10.1002/waf2.70042" target="_blank">DOI</td>
   </tr>
   <tr>
     <td colspan="5" style="padding: 6px;">

@@ -5,7 +5,7 @@ title = "Book Chapters and Reviews"
 weight = 4
 +++
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Author(s)</th>
     <th style="padding: 6px; text-align: left;">Date</th>

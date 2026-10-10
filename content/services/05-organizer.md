@@ -12,10 +12,15 @@ weight = 5
     <figcaption style="text-align:center; margin-top:0.2rem; font-size:1rem; font-family: 'Dax Regular'; line-height:1.5;">Roundtable</figcaption>
 <!-- Page description -->
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Service/Project</th>
+  </tr>
+  
+   <tr>
+    <td style="padding: 6px;">4/2026</td>
+    <td style="padding: 6px;"> Co-organizer of the annual conference of International Affair’s Master’s/ Diplomacy Bachelor’s Programs. April 12,  Ming Chuan University</td>
   </tr>
   <tr>
     <td style="padding: 6px;">06 - 10/2023</td>

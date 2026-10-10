@@ -6,7 +6,7 @@ draft = false
 
 <h3 style="font-size:1.2rem; font-family: 'Dax Regular'; margin-bottom: 1rem;"></h3>
 
-<div style="font-size:0.9rem; font-family: 'Dax Regular'; line-height:1.5;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
 
 <!-- Header image -->
 <img src="/images/pics/services.jpg" 

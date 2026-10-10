@@ -12,10 +12,18 @@ weight = 4
     <figcaption style="text-align:center; margin-top:0.2rem; font-size:1rem; font-family: 'Dax Regular'; line-height:1.5;">Teacher at EMI Faculty Workshops</figcaption>
 <!-- Page description -->
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Occasion</th>
+  </tr>
+  <tr>
+    <td style="padding: 6px;">12/2026</td>
+    <td style="padding: 6px;">Team Supervisor at The 16th INDAC Transnational Crisis Decision-Making Competition, National Defense University</td>
+  </tr>
+    <tr>
+    <td style="padding: 6px;">12/2025</td>
+    <td style="padding: 6px;">Team Supervisor at The 15th INDAC Transnational Crisis Decision-Making Competition, National Defense University</td>
   </tr>
   <tr>
     <td style="padding: 6px;">03/2024 - present</td>

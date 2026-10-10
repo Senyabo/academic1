@@ -53,7 +53,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Yavor"
+    text: "Home"
     icon: /images/home.png
     iconHeight: 30
 
@@ -61,7 +61,9 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hello! &#128075; Welcome!" 
-    subtitle: "Thank you for visiting! Yavor A Kostadinov (森亞博) is an Assistant Professor whose teaching and supervision extend across undergraduate and graduate study. His research, focused on international organizations, security, diplomacy, and public policy, has produced a monograph and numerous articles. He has presented his work widely, received several grants and awards, and contributed to governmental projects. In service to the discipline, he reviews for international journals and continues to guide the next generation of scholars."
+    subtitle: "Yavor A. Kostadinov (森亞博), Ph.D., is an Associate Professor whose teaching and supervision span both undergraduate and graduate levels. His research focuses on international organizations, security, diplomacy, and public policy, and has resulted in a monograph and numerous scholarly articles. He has presented his work widely, received several grants and awards, and contributed to government projects. He also serves the academic community through peer review for international journals and remains committed to mentoring the next generation of scholars.
+
+Thank you for visiting my website."
     imageUrl: "/images/Yavor.jpg"
     imageWidth: 200
     imageHeight: 200

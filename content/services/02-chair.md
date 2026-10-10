@@ -12,11 +12,16 @@ weight = 2
     <figcaption style="text-align:center; margin-top:0.2rem; font-size:1rem; font-family: 'Dax Regular'; line-height:1.5;">ISA--CEEISA 2024</figcaption>
 <!-- Page description -->
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Occasion</th>
   </tr>
+  
+  <tr>
+    <td style="padding: 6px;">05/2026</td>
+    <td style="padding: 6px;">Panel "Innovations in Language Education: Global Perspectives", the English Language Center 3d Annual conference, MCU</td>
+  </tr>  
   <tr>
     <td style="padding: 6px;">06/2024</td>
     <td style="padding: 6px;">Panel "Theories of alliance formation", 17-21 June, Joint International Studies Association ISA-CEEISA conference, Rijeka, Croatia</td>

@@ -1,50 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Publications on Yavor A Kostadinov</title>
+    <title>Yavor A Kostadinov</title>
     <link>http://localhost:1313/research/</link>
-    <description>Recent content in Publications on Yavor A Kostadinov</description>
+    <description>Recent content on Yavor A Kostadinov</description>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2025 15:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Monographs</title>
-      <link>http://localhost:1313/research/01-monographs/</link>
-      <pubDate>Mon, 01 Sep 2025 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/research/01-monographs/</guid>
-      <description>&lt;!-- Page description --&gt;
-&lt;!-- Abstract (collapsible) --&gt;
-&lt;details style=&#34;margin-top:1rem;&#34;&gt;
-  &lt;summary style=&#34;cursor: pointer; font-weight: bold; font-size:0.95rem;&#34;&gt;Abstract&lt;/summary&gt;
-  &lt;div style=&#34;margin-top:0.5rem; font-size:0.9rem; line-height:1.5;&#34;&gt;
-   Complex maritime territorial disputes have intensified in Asia-Pacific region after the Cold War and with the introduction of the United Nations Convention on the Law of the Sea. Tiny islands have turned into major flashpoints threatening regional peace, stability, and cooperation. This research describes China’s maritime territorial disputes in East and South China Seas, examines the impact of the ongoing disputes on regional security and cooperation, evaluates the role of China in the region regarding disputes, and explores the possibility for potential military conflict. Furthermore, the book analyses the role of the US and its interest, and evaluates possible ways for peaceful conflict mitigation and resolution. The investigation concludes that China’s maritime territorial disputes have destabilizing impact on security and negative impact on international cooperation. The book suggests that China will manage to influence further the region in its favour, similarly to Rome’s influence in the Mediterranean and the US’s in the Caribbean seas.
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;!-- Monographs Table --&gt;
-&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
-  &lt;tr&gt;
-    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
-    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
-    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Title&lt;/th&gt;
-    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Publisher&lt;/th&gt;
-    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Link&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;Yavor A. Kostadinov&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;2013&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;Small Islands, Big Flashpoints: Impact of China&#39;s Maritime Territorial Disputes on International Security and Cooperation&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;Lambert Academic Publishing&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;&lt;a href=&#34;https://d-nb.info/1038262151&#34; target=&#34;_blank&#34;&gt;DNB: 1038262151&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;</description>
-    </item>
-    <item>
       <title>Peer-Reviewed Articles</title>
-      <link>http://localhost:1313/research/02-peer-reviewed/</link>
+      <link>http://localhost:1313/research/01-peer-reviewed/</link>
       <pubDate>Mon, 01 Sep 2025 12:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/research/02-peer-reviewed/</guid>
-      <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+      <guid>http://localhost:1313/research/01-peer-reviewed/</guid>
+      <description>&lt;table style=&#34;width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,Oxygen,Ubuntu,Cantarell,&#39;Open Sans&#39;,&#39;Helvetica Neue&#39;,sans-serif, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
@@ -55,10 +24,10 @@
   &lt;!-- Article 1 --&gt;
   &lt;tr&gt;
     &lt;td style=&#34;padding: 6px;&#34;&gt;Kostadinov, Yavor A.; Kavalski, Emilian&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;2025 (under review)&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;2025&lt;/td&gt;
     &lt;td style=&#34;padding: 6px;&#34;&gt;Between Formality and Informality: Socialization and Cohesion in the South Korea–US and Taiwan–US Asymmetric Alliances&lt;/td&gt;
     &lt;td style=&#34;padding: 6px;&#34;&gt;World Affairs (Q2, IF 2.8)&lt;/td&gt;
-    &lt;td style=&#34;padding: 6px;&#34;&gt;—&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;&lt;a href=&#34; https://doi.org/10.1002/waf2.70042&#34; target=&#34;_blank&#34;&gt;DOI&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td colspan=&#34;5&#34; style=&#34;padding: 6px;&#34;&gt;
@@ -167,10 +136,10 @@
     </item>
     <item>
       <title>Specialized Articles</title>
-      <link>http://localhost:1313/research/03-specialized/</link>
+      <link>http://localhost:1313/research/02-specialized/</link>
       <pubDate>Mon, 01 Sep 2025 13:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/research/03-specialized/</guid>
-      <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+      <guid>http://localhost:1313/research/02-specialized/</guid>
+      <description>&lt;table style=&#34;width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,Oxygen,Ubuntu,Cantarell,&#39;Open Sans&#39;,&#39;Helvetica Neue&#39;,sans-serif, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
@@ -218,14 +187,63 @@
       &lt;/details&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;2014&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;“Asia Pacific Flashpoints: Maritime Issues of Strategic Importance for Taiwan”
+&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Strategic Vision for Taiwan Security, Special issue (3), 4-10.&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;&lt;a href=&#34;https://issuu.com/strategic_vision/docs/svsi3&#34; target=&#34;_blank&#34;&gt;TCSS&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td colspan=&#34;5&#34; style=&#34;padding: 6px;&#34;&gt;
+      &lt;details&gt;
+        &lt;summary style=&#34;cursor: pointer; font-weight: bold;&#34;&gt;Abstract&lt;/summary&gt;
+        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
+          This Taiwan Center for Security Studies publication analyzes the importance of SLOCs in the basins around Taiwan. The paper recommends a rimely and firm response in the litoral chockepoints. 
+        &lt;/div&gt;
+      &lt;/details&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
 &lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Monographs</title>
+      <link>http://localhost:1313/research/03-monographs/</link>
+      <pubDate>Mon, 01 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/research/03-monographs/</guid>
+      <description>&lt;!-- Page description --&gt;
+&lt;!-- Monographs Table --&gt;
+&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+ &lt;tr&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Title&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Publisher&lt;/th&gt;
+    &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Link&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Yavor A. Kostadinov&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;2027-8&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;The Social Fabric of Alliances: Social Wedges in International Relations&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;Taylor and Francis – Routledge&lt;/td&gt;
+    &lt;td style=&#34;padding: 6px;&#34;&gt;&lt;a href=&#34;pending&#34; target=&#34;_blank&#34;&gt;pending&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;tr&gt;
+    &lt;td colspan=&#34;5&#34; style=&#34;padding: 6px;&#34;&gt;
+     &lt;details style=&#34;margin-top:1rem;&#34;&gt;
+  &lt;summary style=&#34;cursor: pointer; font-weight: bold; font-size:0.95rem;&#34;&gt;Abstract&lt;/summary&gt;
+  &lt;div style=&#34;margin-top:0.5rem; font-size:0.9rem; line-height:1.5;&#34;&gt;
+   Why do some attempts to divide an opposing alignment fail even when the divider possesses substantial material power? And why can a state sometimes weaken the social foundations of an alignment without changing the target&#39;s basic material incentives?
+	The Social Fabric of Alliances develops a relational constructivist theory of how adversaries attempt to weaken alignments and alliances by manipulating the social relationships that sustain them. The book&#39;s central concept is the social wedge which is an intentional strategy by an external actor to weaken a political alignment by altering how members of that alignment recognize, identify with, or trust one another. The defining feature is therefore not the instrument employed, but the relational object of the intervention and the mechanism through which it is expected to affect alignment.
+&lt;p&gt;Keywords: Alliance politics; wedge strategies; social wedges; relationalism; constructivism; recognition; identity; trust; alignment&lt;/p&gt;</description>
     </item>
     <item>
       <title>Book Chapters and Reviews</title>
       <link>http://localhost:1313/research/04-chapters/</link>
       <pubDate>Mon, 01 Sep 2025 14:00:00 +0800</pubDate>
       <guid>http://localhost:1313/research/04-chapters/</guid>
-      <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+      <description>&lt;table style=&#34;width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,Oxygen,Ubuntu,Cantarell,&#39;Open Sans&#39;,&#39;Helvetica Neue&#39;,sans-serif, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
@@ -331,7 +349,7 @@
       <link>http://localhost:1313/research/05-conferences/</link>
       <pubDate>Mon, 01 Sep 2025 15:00:00 +0800</pubDate>
       <guid>http://localhost:1313/research/05-conferences/</guid>
-      <description>&lt;table style=&#34;width:100%; font-size:0.9rem; font-family: &#39;Dax Regular&#39;, monospace; border-collapse: collapse; border: none;&#34;&gt;
+      <description>&lt;table style=&#34;width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,&#39;Segoe UI&#39;,Roboto,Oxygen,Ubuntu,Cantarell,&#39;Open Sans&#39;,&#39;Helvetica Neue&#39;,sans-serif, monospace; border-collapse: collapse; border: none;&#34;&gt;
   &lt;tr&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Author(s)&lt;/th&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Date&lt;/th&gt;
@@ -339,313 +357,51 @@
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Location / Event&lt;/th&gt;
     &lt;th style=&#34;padding: 6px; text-align: left;&#34;&gt;Link&lt;/th&gt;
   &lt;/tr&gt;
+   &lt;tr&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;2026-10-01&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;&#34;Taiwan in the First Island Chain: Reconsidering &#39;the Weakest Link&#39;&#34;&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;International Symposium on “2026 Indo-Pacific New Circumstances: Competition and Integration of Island Chains and Supply Chains, hosted by the South and Southeast Asia Association Oct 1, Taiwan at the Institute of Diplomacy and International Affairs, MOFA, ROC (Taiwan)&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href= target=&#34;_blank&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
+      &lt;details&gt;
+        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
+        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
+          Proposed a network approach to strengthen the links between the spokes. Taiwan already enjoys strong intelligence and political cooperation with US.
+        &lt;/div&gt;
+      &lt;/details&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt; 
   &lt;tr&gt;
     &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2025-04-27&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;EMI Methods: Suggestions for EMI Teachers&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;EMI Workshop, MCU&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href= /images/pics/emiappreciation1.jpg target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;2026-09-02&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;&#34;From Closed Doors to Algorithmic Shadows: AI and the Epistemological Challenges of International Relations&#34;&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;EISA PEC 2026, Lisbon, Portugal&lt;/td&gt;
+    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href=  target=&#34;_blank&#34;&gt;&lt;/a&gt;&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
       &lt;details&gt;
         &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
         &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Practical workshop for EMI teachers, offering methodology tips and classroom strategies.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2025-03-27&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;How to Be Good Internet Citizens: Countering False and Manipulated Information Online&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;National Formosa University, Yunlin, Taiwan&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href= /images/pics/formosa.jpg target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Discussed strategies for identifying, countering, and preventing the spread of online misinformation.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2025-03-07&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Discussing Perspectives on China with Ukraine’s former foreign minister Pavlo Klimkin&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Online&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          A dialogue on China’s foreign policy and regional implications, featuring Ukraine’s former foreign minister.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-11-29&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;EU disunity on the Russo-Ukrainian war and implications for EU security integration&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;NCCU International Conference “The Russo-Ukrainian War and European Security”, Taipei, Taiwan&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href= https://ocia.nccu.edu.tw/upload/14/doc/30898/1129%20Conference%20Agenda.pdf target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt; 
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Conference presentation analyzing EU security policy and cohesion during the Russo-Ukrainian conflict.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-11-27&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Disinformation and Taiwan’s Response to Chinese Influence Operations&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Atlantic Club of Bulgaria (MOFA invited online presentation)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href=&#34;https://www.roc-taiwan.org/gr/post/4299.html&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          An online presentation on Taiwan’s countermeasures against disinformation and Chinese influence operations.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-11-21&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Competitive Regime Creation: China’s Institutional Statecraft in Central and Eastern Europe&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;American University of Bulgaria (online invited lecture)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Online lecture on China’s strategic influence in Central and Eastern Europe and institutional initiatives.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-10-25&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Discussing Perspectives on China with Ukraine’s former foreign minister Pavlo Klimkin&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Online (invited talk)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Continuation of dialogues with Pavlo Klimkin, focusing on China’s foreign policy and regional impact.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-10-25&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Adversary&#39;s Influence on Alliance Security Dilemma: A Case Study of PRC vis-à-vis the ROC-US Informal Alliance&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Institute of International Relations, University of the West Indies, Trinidad and Tobago (online invited lecture)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Online lecture analyzing alliance security dilemmas in asymmetric informal alliances, with a focus on Taiwan-US and PRC.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-10-24&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Assessing Differentiated and Flexible Integrations in Security and Defense: in the Case of the European Union Permanent Structured Cooperation Framework&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;NDU International Symposium, Taiwan (conference presentation)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;&lt;a href=&#34;https://gpi.culture.tw/books/1011400005&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt;&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Presentation on the EU’s Permanent Structured Cooperation framework and implications for differentiated security integration.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2024-06-17&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;The Role of Socialization in Asymmetric Security Alliances: Comparative Study of Taiwan-US and South Korea-US&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Joint International Studies Association ISA-CEEISA conference, Rijeka, Croatia&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Conference presentation examining alliance socialization and cohesion mechanisms in asymmetric security alliances.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.; W. Emily Chow; Ting Ting Chang&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2023-11-11&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Stakeholders’ perspectives on international large-scale assessments: interpreting high-school teachers’ perspective on PISA&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;ACAS 2023: 17th Annual Conference on Asian Studies, Czech Republic (conference contribution)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Presentation analyzing how high-school teachers interpret international large-scale assessments such as PISA.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.; W. Emily Chow&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2023-09-27&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Digital Media Trends in Public Diplomacy: in the Case of Taiwan&#39;s Youth Ambassadors&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Oxford Taiwan Studies Conference, UK&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Conference presentation on the role of digital media in Taiwan’s public diplomacy among youth ambassadors.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2022-12-28&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Adversary&#39;s Influence on Alliance Security Dilemma: A Case Study of PRC vis-à-vis the ROC-US Informal Alliance&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;GIISS, Tamkang University (invited talk)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Analysis of alliance security dilemmas in Taiwan-US informal alliances with consideration of PRC strategies.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2022-12-01&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Lessons for Taiwan from Russia’s War on Ukraine&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Radio Taiwan International (invited interview)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Invited interview providing policy insights for Taiwan based on lessons from the Russo-Ukrainian war.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2021-11-17&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Deterring Aggression: Recommendations on the Development of the US-TW Informal Alliance&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Net Assessment Forum, Ministry of National Defence, Taiwan (invited talk)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Presented policy recommendations for strengthening the US-Taiwan informal security alliance.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2021-11-17&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;International Institutions and Change: A Case Study of the Nuclear Weapons Regime and the Treaty on the Prohibition of Nuclear Weapons&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Annual Meeting of the Chinese Association of Political Science, Taiwan (presentation)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Examined institutional change and compliance dynamics within the nuclear weapons regime.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2021-05-15&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Culture Clash in the Boardroom&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Chien-Hsin University (invited talk)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Discussed intercultural communication challenges and strategies in corporate boardroom settings.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Kostadinov, Yavor A.&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;2021-05-12&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;Adversary’s Influence on Alliance Security Dilemma: A Case Study of PRC vis-à-vis the ROC-US Informal Alliance&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;International Annual Cross-Strait Affairs Symposium, Ministry of Justice Investigation Bureau, Taiwan (invited talk)&lt;/td&gt;
-    &lt;td style=&#34;padding:6px;&#34;&gt;—&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td colspan=&#34;5&#34; style=&#34;padding:6px; text-align:left;&#34;&gt;
-      &lt;details&gt;
-        &lt;summary style=&#34;cursor:pointer; font-weight:bold;&#34;&gt;Abstract&lt;/summary&gt;
-        &lt;div style=&#34;margin-top:0.5rem;&#34;&gt;
-          Examined PRC strategies and their impact on the security dilemma within the Taiwan-US informal alliance context.
-        &lt;/div&gt;
-      &lt;/details&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;</description>
+          In international relations the decisions that matter most in security politics happen behind closed
+doors and leave no direct trace. Generative AI was expected to narrow that gap. This paper shows it
+deepens it instead. The paper introduces the algorithmic shadow – an epistemic obstruction
+interposed between researcher and evidence, whose fluent output functions as a cost-free signal of
+certainty rather than an index of verifiable grounds. The argument is operationalized through the
+signals and indices distinction and evaluated against established criteria for a genuine explanation.
+Sixteen frontier language models are scored against a six-condition protocol pairing a resolved
+historical case with a live, unresolved one, then administered a second, meta-epistemic protocol
+asking whether they recognize their own contribution to this opacity. Models overwhelmingly
+collapse signal into index, treating a still-reversible legislative process as an already-sunk
+commitment. This collapse is systemic and co-occurs with near-total failure to resist hindsight
+leakage and a documented tendency for fluency to outpace truth-tracking. When asked to reflect on
+this, models comply fluently but none can isolate their own specific failure mechanism from within
+a structurally opaque process. The paper extends the signals and indices framework, developed for
+&lt;p&gt;state behavior, into AI epistemology, and demonstrates empirically that model self-report is not self-
+authenticating. It argues that AI literacy must mean externally verified skepticism toward a model&amp;rsquo;s&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

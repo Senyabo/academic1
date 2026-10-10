@@ -1,7 +1,7 @@
 +++
 date = '2025-08-27T23:02:22+08:00'
 draft = false
-title = "Commentator"
+title = "Discussant"
 weight = 3
 +++
 
@@ -12,10 +12,29 @@ weight = 3
     <figcaption style="text-align:center; margin-top:0.2rem; font-size:1rem; font-family: 'Dax Regular'; line-height:1.5;"></figcaption>
 <!-- Page description -->
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Occasion</th>
+  </tr>
+ <tr>
+    <td style="padding: 6px;">11/2026</td>
+    <td style="padding: 6px;"> The 2026 Annual Conference and International Academic Symposium, "Restructuring the International Order in the Trump 2.0 Era: Great Power Competition, Geopolitical Conflict, and Energy Security," the Taiwan Association of International Relations, Nov 21, at Tamkang University </td>
+  </tr>
+ <tr>
+    <td style="padding: 6px;">06/2026</td>
+    <td style="padding: 6px;"> The 2026 Conference on Supply Chain Management and National Security in the AI Era, June 8, IIR,  National Chengchi University</td>
+  </tr> <tr>
+    <td style="padding: 6px;">06/2026</td>
+    <td style="padding: 6px;"> The 2026 Conference on Supply Chain Management and National Security in the AI Era, June 8, IIR,  National Chengchi University</td>
+  </tr>
+ <tr>
+    <td style="padding: 6px;">04/2026</td>
+    <td style="padding: 6px;"> Symposium for Graduate Students in Taiwan’s Strategic Studies Community,April 24, GSIISS, Tamkang University</td>
+  </tr>
+ <tr>
+    <td style="padding: 6px;">10/2025</td>
+    <td style="padding: 6px;"> Border Managment Technology Forum, Oct 14, Central Police University</td>
   </tr>
   <tr>
     <td style="padding: 6px;">04/2025</td>

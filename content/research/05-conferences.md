@@ -5,7 +5,7 @@ title = "Conference Papers, Invited Lectures and Talks"
 weight = 5
 +++
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Author(s)</th>
     <th style="padding: 6px; text-align: left;">Date</th>
@@ -13,13 +13,240 @@ weight = 5
     <th style="padding: 6px; text-align: left;">Location / Event</th>
     <th style="padding: 6px; text-align: left;">Link</th>
   </tr>
+    
+   <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2026-10-01</td>
+    <td style="padding:6px;">"Taiwan in the First Island Chain: Reconsidering 'the Weakest Link'"</td>
+    <td style="padding:6px;">International Symposium on “2026 Indo-Pacific New Circumstances: Competition and Integration of Island Chains and Supply Chains, hosted by the South and Southeast Asia Association Oct 1, Taiwan at the Institute of Diplomacy and International Affairs, MOFA, ROC (Taiwan)</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Proposed a network approach to strengthen the links between the spokes. Taiwan already enjoys strong intelligence and political cooperation with US.
+        </div>
+      </details>
+    </td>
+  </tr> 
+ 
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2026-09-02</td>
+    <td style="padding:6px;">"From Closed Doors to Algorithmic Shadows: AI and the Epistemological Challenges of International Relations"</td>
+    <td style="padding:6px;">EISA PEC 2026, Lisbon, Portugal</td>
+    <td style="padding:6px;"><a href=  target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          In international relations the decisions that matter most in security politics happen behind closed
+doors and leave no direct trace. Generative AI was expected to narrow that gap. This paper shows it
+deepens it instead. The paper introduces the algorithmic shadow – an epistemic obstruction
+interposed between researcher and evidence, whose fluent output functions as a cost-free signal of
+certainty rather than an index of verifiable grounds. The argument is operationalized through the
+signals and indices distinction and evaluated against established criteria for a genuine explanation.
+Sixteen frontier language models are scored against a six-condition protocol pairing a resolved
+historical case with a live, unresolved one, then administered a second, meta-epistemic protocol
+asking whether they recognize their own contribution to this opacity. Models overwhelmingly
+collapse signal into index, treating a still-reversible legislative process as an already-sunk
+commitment. This collapse is systemic and co-occurs with near-total failure to resist hindsight
+leakage and a documented tendency for fluency to outpace truth-tracking. When asked to reflect on
+this, models comply fluently but none can isolate their own specific failure mechanism from within
+a structurally opaque process. The paper extends the signals and indices framework, developed for
+
+state behavior, into AI epistemology, and demonstrates empirically that model self-report is not self-
+authenticating. It argues that AI literacy must mean externally verified skepticism toward a model's
+
+confidence, not deference to it.
+Keywords: Epistemology of International Relations, Large Language Model, Algorithmic Shadow,
+Signaling Theory, AI Literacy
+        </div>
+      </details>
+    </td>
+  </tr>   
+  
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2026-04-27</td>
+    <td style="padding:6px;">"Globalization of People: Migration and Labour Issues"</td>
+    <td style="padding:6px;">Department of Border Police, Central Police University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Invited by Director Kao to deliver a talk to police cadets.
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2026-02-26</td>
+    <td style="padding:6px;">"International Humanitarian Law in Contemporary Armed Conflict"</td>
+    <td style="padding:6px;">Department of Law, College of Management, National Defense University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Invited to prepared military cadets for the San Remo moat.
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2026-01-08</td>
+    <td style="padding:6px;">"EMI Methods: Suggestions for EMI Teachers"</td>
+    <td style="padding:6px;">EMI Workshop, MCU</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Practical workshop for EMI teachers, offering methodology tips and classroom strategies.
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2025-11-25</td>
+    <td style="padding:6px;">"Undermining Alliances through Relational Gatekeeping, Disruption, and Unbinding Evidence from China’s De-Socialization Efforts toward Taiwan"</td>
+    <td style="padding:6px;">National Chengchi University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+         This article advances a constructivist, relational framework for understanding how states seek to
+weaken alliance cohesion through relational mechanisms of social control. It introduces the concept of
+strategic de-socialization, defined as the deliberate effort to prevent, constrain, or dismantle an actor’s
+embeddedness within a rival normative network. Departing from materialist accounts of how alliances
+can be divided through coercion and inducement, this study foregrounds the mechanisms through
+which states exercise social control over recognition and engagement. The paper theorizes three
+interrelated mechanisms of strategic de-socialization: relational gatekeeping (status and access control),
+relational disruption (trust erosion), and relational unbinding (dissolution of identity traits) in alliances.
+Empirically, the paper demonstrates how the divider (PRC, China), combines these tactics to constrain
+the target’s (ROC, Taiwan) integration within the principal ally’s (US) normative order. The study
+contributes to International Relations theory by conceptualizing strategic de-socialization as a distinct
+form of competitive statecraft, one that operates through the selective governance of relational
+boundaries.
+Keywords: De-socialization, Relational Gatekeeping, Relational Disruption, Relational Unbinding,
+China, Taiwan-US Informal Alliance
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2025-11-14</td>
+    <td style="padding:6px;">"Exploring the Impact of Taiwanese State and Non-State Social Media Actors on Public Opinion Through Short-Form Videos"</td>
+    <td style="padding:6px;">Taiwan Association of
+International Relations, Tunghai University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          This study investigates the use and impact of short-form videos from Taiwan’s Ministry of Foreign
+Affairs (MOFA) and independent social media influencers (SMIs) on public opinion in Bulgaria. Using
+an experimental design, stratified sample of participants are shown two sets of short videos - one with
+short-videos produced by MOFA’s official social media accounts and another produced by independent
+SMIs - on platforms they regularly use, such as Instagram Reels and YouTube Shorts. After viewing,
+participants complete a survey assessing their perceptions of the content’s credibility, authenticity,
+attractiveness, expertise, as well as its relevance to their personal interests. The study analyzes how
+source and content characteristics affect viewer impressions, offering insight into the dynamics of
+international media influence on public opinion of Taiwan. The study contributes to the field of digital
+public diplomacy and provides insights to state and non-state actors on the impacts of their virtual
+public influence efforts.
+
+Keywords: digital public diplomacy, public opinion, short-form video, content characteristics, Taiwan
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2025-10-09</td>
+    <td style="padding:6px;">"China’s Institutional Statecraft In The China -Arab States Cooperation Forum"</td>
+    <td style="padding:6px;">Seminar on China and the Global South: Beijing’s Strategic Thinking and Its Influences, ARCHSS, roundtable at National Chung Hsing University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Invited to discuss China's international cooperation.
+        </div>
+      </details>
+    </td>
+  </tr>
+  
+   <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2025-10-09</td>
+    <td style="padding:6px;">Manipulating the Alliance Security Dilemma</td>
+    <td style="padding:6px;">the Institute of International Relations, the University of the West Indies, Trinidad and Tobago</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Invited by Dr Jacquiline Martinez at UWI to her graduate class, online presentation on Cross-Strait Relations.
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding:6px;">Kostadinov, Yavor A.</td>
+    <td style="padding:6px;">2025-09-19</td>
+    <td style="padding:6px;">"China’s Disinformation Campaign in Taiwan"</td>
+    <td style="padding:6px;">"The Evolving Crisis of Democracy in Asia: Challenges and Resolutions," jointly organized roundtable by the Asia Center, Taiwan-Asia Exchange Foundation and National Chung Hsing University</td>
+    <td style="padding:6px;"><a href= target="_blank"></a></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding:6px; text-align:left;">
+      <details>
+        <summary style="cursor:pointer; font-weight:bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          Invited presentation and discussion at NCHU"s ARCHS
+        </div>
+      </details>
+    </td>
+  </tr>
 
   <tr>
     <td style="padding:6px;">Kostadinov, Yavor A.</td>
     <td style="padding:6px;">2025-04-27</td>
     <td style="padding:6px;">EMI Methods: Suggestions for EMI Teachers</td>
     <td style="padding:6px;">EMI Workshop, MCU</td>
-    <td style="padding:6px;"><a href= /images/pics/emiappreciation1.jpg target="_blank">Link</a></td>
+    <td style="padding:6px;"><a href= /images/pics/emiappreciation1.jpg target="_blank"></a></td>
   </tr>
   <tr>
     <td colspan="5" style="padding:6px; text-align:left;">

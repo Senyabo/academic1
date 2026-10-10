@@ -4,24 +4,33 @@ draft = false
 layout = "page"
 +++
 
-<h3 style="font-size:1.5rem;font-family: 'Dax Regular', monospace">About</h3>
+
 <!-- Header image -->
 <img src="/images/pics/standing1.jpg" 
      alt="Gallery Header"
      style="width:100%; max-height:300px; object-fit:cover; border-radius:12px; margin-bottom:1rem;">
     
 
- <h3 style="font-size:1.2rem;font-family: 'Dax Regular', monospace">Employment</h3>
-
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+ <h3 style="font-size:18px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif">Employment</h3>
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding:6px; text-align:left;">Period</th>
     <th style="padding:6px; text-align:left;">Position</th>
     <th style="padding:6px; text-align:left;">Institution</th>
   </tr>
   <tr>
-    <td style="padding:6px;">08/2019 – present</td>
-    <td style="padding:6px;">Assistant Professor of International Affairs and Diplomacy</td>
+    <td style="padding:6px;">08/2026 – present</td>
+    <td style="padding:6px;">Associate Professor of International Affairs and Diplomacy (tenured)</td>
+    <td style="padding:6px;">International College, Ming Chuan University (Taiwan)</td>
+  </tr>
+  <tr>
+    <td style="padding:6px;">08/2024 - 07/2026</td>
+    <td style="padding:6px;">Assistant Professor of International Affairs and Diplomacy (tenured)</td>
+    <td style="padding:6px;">International College, Ming Chuan University (Taiwan)</td>
+  </tr>
+  <tr>
+    <td style="padding:6px;">08/2019 – 07/2024</td>
+    <td style="padding:6px;">Special Program Assistant Professor of International Affairs and Diplomacy</td>
     <td style="padding:6px;">International College, Ming Chuan University (Taiwan)</td>
   </tr>
   <tr>
@@ -36,13 +45,18 @@ layout = "page"
   </tr>
 </table>
 
-<h3 style="font-size:1.2rem;font-family: 'Dax Regular', monospace">Education</h3>
+<h3 style="font-size:18px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif">Education</h3>
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding:6px; text-align:left;">Period</th>
-    <th style="padding:6px; text-align:left;">Degree</th>
+    <th style="padding:6px; text-align:left;">Degree/Certificate</th>
     <th style="padding:6px; text-align:left;">Institution</th>
+  </tr>
+  <tr>
+    <td style="padding:6px;">02/2026 – 11/2026</td>
+    <td style="padding:6px;">Professional Development - EMI Teacher Certificate</td>
+    <td style="padding:6px;">National Taiwan Normal University (Taiwan)</td>
   </tr>
   <tr>
     <td style="padding:6px;">09/2013 – 07/2017</td>

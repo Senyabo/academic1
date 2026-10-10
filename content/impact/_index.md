@@ -3,10 +3,8 @@ date = '2025-08-27T23:02:22+08:00'
 draft = false
 +++
 
-<h3 style="font-size:1.5rem; font-family: 'Inter'; margin-bottom: 1rem;">Media Appearances</h3>
-
 <!-- Header image -->
-<img src="/images/pics/MA.jpg" 
+<img src="/images/pics/media1.jpg" 
      alt="Gallery Header"
      style="width:100%; max-height:150px; object-fit:cover; border-radius:12px; margin-bottom:1rem;">
     
@@ -14,19 +12,32 @@ draft = false
 <div style="text-align:center; margin-bottom:2rem;">
   
 </div>
+<h3 style="font-size:18px;text-align:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif">Media Appearances</h3>
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Inter'; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Media outlet</th>
     <th style="padding: 6px; text-align: left;">Details</th>
-    <th style="padding: 6px; text-align: left;">Links</th>
+    <th style="padding: 6px; text-align: left;">Link</th>
+  </tr>
+    <tr>
+    <td style="padding: 6px;">03/06/2026</td>
+    <td style="padding: 6px;">TaiwanPlus TV</td>
+    <td style="padding: 6px;">Taiwan Talks: Inside China's Secret Global Police Network: How Beijing Reaches Beyond Its Shores</td>
+    <td style="padding: 6px;"><a href="https://www.youtube.com/watch?v=aDRgNYw_bCs&t=40s">EP873</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 6px;">14/01/2026</td>
+    <td style="padding: 6px;">Influencer Ethnography Research Lab (IERlab)</td>
+    <td style="padding: 6px;">Podcast: Regulation of Child Social Media Influencers in Taiwan with Dr Yavor A Kostadinov</td>
+    <td style="padding: 6px;"><a href="https://open.spotify.com/episode/4J4IBTLSjRAqnVLpRWMLOv?si=8exwap9DTDWe7RYmfvK4AQ">Season 3 EP11</a></td>
   </tr>
   <tr>
     <td style="padding: 6px;">23/06/2025</td>
     <td style="padding: 6px;">Taiwan Indigenous Television (TITV)</td>
     <td style="padding: 6px;">ITA Taiwan Insights: EU’s Relations with the U.S., China, and Taiwan</td>
-    <td style="padding: 6px;"><a href="https://youtu.be/yBzNNx1C55U?si=Vw2Izd9InC2xCHjS">ITA</a></td>
+    <td style="padding: 6px;"><a href="https://youtu.be/yBzNNx1C55U?si=Vw2Izd9InC2xCHjS">EP209</a></td>
   </tr>
   <tr>
     <td style="padding: 6px;">27/11/2024</td>

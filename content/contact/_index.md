@@ -11,6 +11,6 @@ My office hours vary every semester. To make an appointment, you can reach me at
 <p style="font-size:1rem; font-family='Roboto'; line-height:1.5;">
 My current work address is:<br>
 No. 5, De-Ming Rd., Gui-Shan Dist., Taoyuan, ROC (Taiwan), 333.<br><br>
-Starting from academic year 2026/27, my department will move to:<br>
+Starting from academic year 2026/27, my department will gradually move to:<br>
 No. 250, Section 5, Zhongshan North Rd., Shilin District, Taipei City, ROC (Taiwan), 111.
 </p>

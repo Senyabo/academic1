@@ -2,11 +2,11 @@
 date = '2025-09-01T13:00:00+08:00'
 draft = false
 title = "Specialized Articles"
-weight = 3
+weight = 2
 +++
 
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Author(s)</th>
     <th style="padding: 6px; text-align: left;">Date</th>
@@ -52,6 +52,25 @@ weight = 3
           This government publication analyzes how the PRC’s strategies impact the 
           security dilemma within the informal ROC–US alliance. The findings gained 
           wider public traction, being further reported by the China Times.
+        </div>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="padding: 6px;">Kostadinov, Yavor A.</td>
+    <td style="padding: 6px;">2014</td>
+    <td style="padding: 6px;">“Asia Pacific Flashpoints: Maritime Issues of Strategic Importance for Taiwan”
+</td>
+    <td style="padding: 6px;">Strategic Vision for Taiwan Security, Special issue (3), 4-10.</td>
+    <td style="padding: 6px;"><a href="https://issuu.com/strategic_vision/docs/svsi3" target="_blank">TCSS</td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding: 6px;">
+      <details>
+        <summary style="cursor: pointer; font-weight: bold;">Abstract</summary>
+        <div style="margin-top:0.5rem;">
+          This Taiwan Center for Security Studies publication analyzes the importance of SLOCs in the basins around Taiwan. The paper recommends a rimely and firm response in the litoral chockepoints. 
         </div>
       </details>
     </td>

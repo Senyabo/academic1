@@ -14,10 +14,41 @@ weight = 1
 
 <h3 style="font-size:1rem;font-family: 'Dax Regular', monospace"></h3>
 
-<table style="width:100%; font-size:0.9rem; font-family: 'Dax Regular', monospace; border-collapse: collapse; border: none;">
+<table style="width:100%; font-size:0.95rem; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif, monospace; border-collapse: collapse; border: none;">
   <tr>
     <th style="padding: 6px; text-align: left;">Date</th>
     <th style="padding: 6px; text-align: left;">Service</th>
+  </tr>
+  
+  <tr>
+    <td style="padding: 6px;">06/2026</td>
+    <td style="padding: 6px;">Thesis-supervision: Gustavo Sanchez, MA - Humanitarian Diplomacy and Securing Access in Situations of Violence and Armed Conflict: A Case Study of the International Committee of the Red Cross
+</td>
+<tr>
+<tr>
+    <td style="padding: 6px;">05/2026</td>
+    <td style="padding: 6px;">Thesis-Review of MA theses proposals  x2, at INDAC, National Defense University
+</td>
+<tr>
+  <tr>
+    <td style="padding: 6px;">03/2026</td>
+    <td style="padding: 6px;">Peer-review for Tamkang Journal of International Affairs
+</td>
+<tr>
+<tr>
+    <td style="padding: 6px;">03/2026</td>
+    <td style="padding: 6px;">Peer-review for The Hague Journal of Diplomacy
+</td>
+<tr>
+<tr>
+    <td style="padding: 6px;">02/2026</td>
+    <td style="padding: 6px;">Peer-review for World Affairs
+</td>
+<tr>
+    <td style="padding: 6px;">01/2026</td>
+    <td style="padding: 6px;">Peer-review for Humanities and Social Sciences Communications
+</td>
+</td>
   </tr>
   <tr>
     <td style="padding: 6px;">08/2025</td>
